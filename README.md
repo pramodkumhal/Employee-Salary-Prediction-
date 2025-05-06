@@ -1,19 +1,20 @@
-# 👨‍💼 Employee-Salary-Prediction-
-This project predicts the salary of an employee using a Linear Regression model.
+# 👨‍💼 Employee-Salary-Prediction
 
-📌 What it uses:
-Age
-Gender
-Degree
-Experience (in years)
-Job Title
+This project predicts the salary of an employee using a **Linear Regression** model.
 
-🔧 Tools:
-Python
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+### 📌 What it uses:
+- Age  
+- Gender  
+- Degree  
+- Experience (in years)  
+- Job Title  
 
-🎯 Goal:
+### 🔧 Tools:
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+
+### 🎯 Goal:
 To predict employee salary based on their background and job role.
